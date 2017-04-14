@@ -1,5 +1,31 @@
-img {
+/* Navbar */
+.pages {
+	font-size: 25px;
+	margin-top: 6px;
+}
+
+.page {
+	margin-right: 20px;
+	color: E6E6E6;
+}
+
+/* Jumbotron */
+.jumbotron {
+	margin-bottom: 0px;
+}
+
+.innertron {
+  margin-top: 30px;
+}
+
+.picture {
 	height: 300px;	
+}
+
+/* Languages */
+
+#languages {
+	padding: 20px;
 }
 
 .logo {
@@ -9,27 +35,20 @@ img {
 	position: absolute;
 }
 
-.page {
-	margin-right: 20px;
-}
-
-.innertron {
-  margin-top: 30px;
-}
-
-.pages {
-	color: white;
-	font-size: 25px;
-	margin-top: 6px;
-}
-
-.fire {
-	border: 1px solid red;
-	display: inline;
-}
-
 .language {
 	display: inline-block;
 	height: 60px;
 	margin-left: 120px;
+}
+
+/* Resume */
+#resume {
+	padding: 20px;
+	background-color: eeeeee;
+}
+
+#resumeJPG {
+	width: 70%;
+	display: block;
+	margin: auto;
 }
