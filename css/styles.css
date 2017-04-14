@@ -1,0 +1,35 @@
+img {
+	height: 300px;	
+}
+
+.logo {
+	height: 60px;
+	margin-top: 20px;
+	display: inline-block;
+	position: absolute;
+}
+
+.page {
+	margin-right: 20px;
+}
+
+.innertron {
+  margin-top: 30px;
+}
+
+.pages {
+	color: white;
+	font-size: 25px;
+	margin-top: 6px;
+}
+
+.fire {
+	border: 1px solid red;
+	display: inline;
+}
+
+.language {
+	display: inline-block;
+	height: 60px;
+	margin-left: 120px;
+}
